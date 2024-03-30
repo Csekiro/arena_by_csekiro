@@ -1,0 +1,10 @@
+execute positioned ~ ~1 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~2 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~3 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~4 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~5 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~6 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~7 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~8 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~9 ~ run function tools:clean_end_gateway/yz/perform
+execute positioned ~ ~10 ~ run function tools:clean_end_gateway/yz/perform

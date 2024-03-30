@@ -1,0 +1,1 @@
+#schedule clear arena_bc:arena/battle_begin/begin/time_to_finish

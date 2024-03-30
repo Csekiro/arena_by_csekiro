@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "blocked": false
+        },
+        "player": {
+          "nbt": "{Tags:[\"vampire\",\"bat\"]}"
+        },
+        "entity": {
+          "type": "player",
+          "effects": {
+            "minecraft:luck": {
+              "amplifier": 0,
+              "visible": false
+            }
+          },
+          "distance": {"horizontal": {"max": 1,"min": 0}}
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "arena_bc:bat/vampire/vampire"
+  }
+}

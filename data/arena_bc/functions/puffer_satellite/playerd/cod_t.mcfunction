@@ -1,0 +1,1 @@
+execute as @a[tag=playerd] run function arena_bc:puffer_satellite/playerd/cod

@@ -1,0 +1,1 @@
+function arena_bc:trident_plus/trident/playerc/z_load

@@ -1,0 +1,2 @@
+give @s shaper_armor_trim_smithing_template{CustomModelData:66,display:{Lore:['{"color":"green","text":"按Q释放","italic":false}','{"color":"red","text":"有可能伤到自己","italic":false}'],Name:'{"color":"dark_aqua","text":"THUNDER_SPRINT","italic":false}'},HideFlags:-1}
+give @s shaper_armor_trim_smithing_template{CustomModelData:66,display:{Lore:['{"color":"green","text":"按Q释放","italic":false}','{"color":"red","text":"有可能伤到自己","italic":false}'],Name:'{"color":"dark_aqua","text":"THUNDER_SPRINT","italic":false}'},HideFlags:-1,divide2:1b}

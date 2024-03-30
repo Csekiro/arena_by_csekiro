@@ -1,0 +1,1 @@
+schedule clear fps:air_defense_artillery/playera/perform_t

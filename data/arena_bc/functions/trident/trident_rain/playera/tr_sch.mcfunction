@@ -1,0 +1,1 @@
+execute as @e[tag=trident_rain_playera] at @s run function arena_bc:trident/trident_rain/playera/tr_perform

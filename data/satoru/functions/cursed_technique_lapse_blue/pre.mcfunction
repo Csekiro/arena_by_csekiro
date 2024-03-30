@@ -1,0 +1,1 @@
+scoreboard objectives add blue_times dummy

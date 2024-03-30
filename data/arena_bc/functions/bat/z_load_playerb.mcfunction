@@ -1,0 +1,1 @@
+function arena_bc:bat/playerb/z_load

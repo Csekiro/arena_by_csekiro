@@ -1,0 +1,21 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger":
+        "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": ["shield"]
+          },
+          "player": {
+            "equipment": {
+              "mainhand": {"items": ["shield"]}
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "arena_bc:arena/advancements/shield/mainhand"
+    }
+  }

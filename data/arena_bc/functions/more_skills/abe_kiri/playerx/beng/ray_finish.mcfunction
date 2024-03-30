@@ -1,0 +1,1 @@
+scoreboard players reset #playerx_beng_times rays

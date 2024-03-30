@@ -1,0 +1,25 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger":
+        "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": ["shield"]
+          },
+          "player": {
+            "equipment": {
+              "offhand": {"items": ["shield"]}
+            },
+            "nbt": "{Tags:[ok]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "arena_bc:arena/advancements/shield/shield"
+    }
+  }
+  
+  
+  

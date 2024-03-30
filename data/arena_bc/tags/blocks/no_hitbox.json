@@ -1,0 +1,56 @@
+{
+    "replace": false,
+    "values": [
+      
+      "#minecraft:flowers",
+      "#minecraft:all_signs",
+      "#minecraft:buttons",
+      "#minecraft:pressure_plates",
+      "#minecraft:rails",
+      "#minecraft:sword_efficient",
+      "#minecraft:banners",
+      
+      "minecraft:torch",
+      "minecraft:redstone_torch",
+      "minecraft:soul_torch",
+      "minecraft:wall_torch",
+      "minecraft:redstone_wall_torch",
+      "minecraft:soul_wall_torch",
+      "minecraft:scaffolding",
+  
+      "minecraft:ladder",
+      "minecraft:bamboo_sapling",
+      "minecraft:sculk_vein",
+      "minecraft:sea_pickle",
+      "#minecraft:underwater_bonemeals",
+      "minecraft:kelp_plant",
+        "minecraft:kelp",
+      "minecraft:dead_tube_coral_fan",
+      "minecraft:dead_brain_coral_fan",
+      "minecraft:dead_bubble_coral_fan",
+      "minecraft:dead_fire_coral_fan",
+      "minecraft:dead_horn_coral_fan",
+      "minecraft:dead_tube_coral",
+      "minecraft:dead_brain_coral",
+      "minecraft:dead_bubble_coral",
+      "minecraft:dead_fire_coral",
+      "minecraft:dead_horn_coral",
+      "minecraft:frogspawn",
+      
+      "minecraft:tripwire_hook",
+      "minecraft:tripwire",
+      "minecraft:repeater",
+      "minecraft:comparator",
+      "minecraft:lever",
+      "minecraft:redstone_wire",
+  
+      "minecraft:air",
+      "minecraft:cave_air",
+      "minecraft:void_air",
+      "minecraft:powder_snow",
+      "minecraft:water",
+      "minecraft:lava",
+      "minecraft:bubble_column",
+      "minecraft:fire"
+    ]
+  }

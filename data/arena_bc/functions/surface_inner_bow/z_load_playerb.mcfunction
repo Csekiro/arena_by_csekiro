@@ -1,0 +1,1 @@
+function arena_bc:surface_inner_bow/playerb/z_load

@@ -1,0 +1,4 @@
+function arena_bc:more_skills/descending_dark/playerd/z_stop
+function arena_bc:more_skills/warden_void/playerd/z_stop
+function arena_bc:more_skills/flash_godspeed/playerd/z_stop
+function arena_bc:more_skills/abe_kiri/playerd/z_stop

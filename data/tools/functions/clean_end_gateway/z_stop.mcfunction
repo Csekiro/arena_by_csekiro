@@ -1,0 +1,1 @@
+schedule clear tools:clean_end_gateway/perform_t

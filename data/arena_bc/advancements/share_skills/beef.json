@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger":
+      "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:beef"]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "arena_bc:arena/share_skills/beef"
+  }
+}
+
+

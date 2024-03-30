@@ -1,0 +1,1 @@
+tellraw @a {"text": "战斗开始","color": "light_purple"} 

@@ -1,0 +1,2 @@
+schedule clear arena_bc:royal_guard/playerb/perform_t
+bossbar remove minecraft:defence_energy_playerb

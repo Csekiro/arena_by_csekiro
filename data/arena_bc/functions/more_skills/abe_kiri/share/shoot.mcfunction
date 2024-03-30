@@ -1,0 +1,9 @@
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.5
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.5
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.5
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.5
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.1
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.2
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.3
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.4
+playsound entity.firework_rocket.large_blast player @a ~ ~ ~ 2 1.6

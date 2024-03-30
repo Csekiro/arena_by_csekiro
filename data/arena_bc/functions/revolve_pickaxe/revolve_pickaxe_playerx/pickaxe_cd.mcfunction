@@ -1,0 +1,3 @@
+execute as @a[tag=playerx,nbt={SelectedItem:{id:"minecraft:netherite_pickaxe",tag:{cd_pickaxe:1b}}}] at @s run playsound minecraft:block.anvil.use player @s
+execute as @a[tag=playerx,nbt={SelectedItem:{id:"minecraft:netherite_pickaxe",tag:{cd_pickaxe:1b}}}] at @s run item replace entity @s weapon.mainhand with netherite_pickaxe{rev_pickaxe:1b,Enchantments:[{id:"minecraft:sharpness",lvl:4},{id:"minecraft:efficiency",lvl:10}],display:{Name:'{"text":"下界合金镐[ready]"}'}}
+execute unless entity @a[tag=playerx,nbt={SelectedItem:{id:"minecraft:netherite_pickaxe",tag:{cd_pickaxe:1b}}}] unless entity @a[tag=playerx,nbt={SelectedItem:{id:"minecraft:netherite_pickaxe",tag:{rev_pickaxe:1b}}}] run schedule function arena_bc:revolve_pickaxe/revolve_pickaxe_playerx/pickaxe_cd 1t append

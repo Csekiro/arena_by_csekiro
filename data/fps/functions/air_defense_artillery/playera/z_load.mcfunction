@@ -1,0 +1,2 @@
+function fps:air_defense_artillery/playera/owner_detect/z_load
+function fps:air_defense_artillery/playera/perform_t

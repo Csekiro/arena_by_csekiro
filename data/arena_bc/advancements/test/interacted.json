@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "interacted": {
+            "trigger": "player_interacted_with_entity"
+        }
+    },
+    "requirements": [
+        [
+            "interacted"
+        ]
+    ],
+    "rewards": {
+        "function": "arena_bc:fireball/fireball_playera/perform"
+    }
+}

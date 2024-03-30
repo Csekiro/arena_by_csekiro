@@ -1,0 +1,3 @@
+scoreboard objectives add charge_flycrossbow dummy
+scoreboard players reset #playerx charge_flycrossbow
+function arena_bc:enderman/fly_crossbow/playerx/perform_t

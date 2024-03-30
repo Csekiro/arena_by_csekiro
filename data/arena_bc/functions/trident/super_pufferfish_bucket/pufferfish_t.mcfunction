@@ -1,0 +1,1 @@
+execute as @e[name="河豚!",limit=1] at @s run function arena_bc:trident/super_pufferfish_bucket/summon

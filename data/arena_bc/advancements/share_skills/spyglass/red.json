@@ -1,0 +1,26 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger":
+        "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": ["spyglass"]
+          },
+          "player": {
+            "equipment": {
+              "mainhand": {"items": ["spyglass"]}
+            },
+            "nbt": "{Tags:[ok]}",
+            "team": "red"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "arena_bc:arena/advancements/spyglass/red/using"
+    }
+  }
+  
+  
+  

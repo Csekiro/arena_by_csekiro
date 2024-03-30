@@ -1,0 +1,1 @@
+execute as @a[tag=playerd,limit=1] at @s run function arena_bc:trident/sea_power/playerd/back_survival

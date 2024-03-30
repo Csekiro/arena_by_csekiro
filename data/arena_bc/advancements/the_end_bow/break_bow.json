@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger":
+        "minecraft:item_durability_changed",
+        "conditions": {
+          "item": {
+            "durability": 1,
+            "items": ["bow"]
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "arena_bc:arena/advancements/the_end_bow/break_bow"
+    }
+  }
+  
+  
+  

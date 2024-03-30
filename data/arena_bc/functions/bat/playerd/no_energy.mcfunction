@@ -1,0 +1,1 @@
+title @s actionbar {"text":"能量不足！","color":"red","italic": true}

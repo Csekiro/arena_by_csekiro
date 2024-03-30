@@ -1,0 +1,1 @@
+give @a[tag=playera] minecraft:pointed_dripstone

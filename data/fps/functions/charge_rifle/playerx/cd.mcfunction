@@ -1,0 +1,2 @@
+scoreboard players remove #charge_rifle_cd_playerx charge_rifle_cd_playerx 1
+execute unless score #charge_rifle_cd_playerx charge_rifle_cd_playerx matches 0 run schedule function fps:charge_rifle/playerx/cd 1t append

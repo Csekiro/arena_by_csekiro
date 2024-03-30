@@ -1,0 +1,16 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:arrow",
+        "minecraft:ender_pearl",
+        "minecraft:eye_of_ender",
+        "minecraft:experience_bottle",
+        "minecraft:egg",
+        "minecraft:trident",
+        "minecraft:fireball",
+        "minecraft:snowball",
+        "minecraft:potion",
+        "minecraft:marker",
+        "minecraft:armor_stand"
+	]
+}

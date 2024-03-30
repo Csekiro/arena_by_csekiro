@@ -1,0 +1,1 @@
+execute as @a[tag=playerx] at @s if entity @e[distance=..2,type=item,nbt={Item:{id:"minecraft:blaze_rod",tag:{pickaxe_cd:1b}}}] run function arena_bc:revolve_pickaxe/revolve_pickaxe_playerx/pickaxe_back

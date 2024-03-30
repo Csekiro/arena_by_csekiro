@@ -1,0 +1,1 @@
+schedule clear arena_bc:fireball/playerx/perform_t

@@ -1,0 +1,4 @@
+execute as @a[tag=playerx,nbt={Inventory:[{Slot:102b, id:"minecraft:netherite_chestplate"}]}] run function arena_bc:dual_armor/dual_armor_playerx/wear_netherite
+execute as @a[tag=playerx,nbt={Inventory:[{Slot:102b, id:"minecraft:chainmail_chestplate"}]}] at @s run function arena_bc:dual_armor/dual_armor_playerx/wear_chainmail
+execute as @a[tag=playerx,nbt={Inventory:[{Slot:100b, id:"minecraft:netherite_boots"}]}] unless entity @s[nbt={Inventory:[{Slot:102b, id:"minecraft:netherite_chestplate"}]}] run function arena_bc:dual_armor/dual_armor_playerx/dont_cheat
+schedule function arena_bc:dual_armor/dual_armor_playerx/armors 1t append

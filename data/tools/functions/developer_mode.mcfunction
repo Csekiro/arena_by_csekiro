@@ -1,0 +1,3 @@
+#gamerule commandBlockOutput true
+gamerule sendCommandFeedback true
+gamerule reducedDebugInfo false

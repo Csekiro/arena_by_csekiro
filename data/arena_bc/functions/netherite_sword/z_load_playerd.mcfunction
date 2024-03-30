@@ -1,0 +1,2 @@
+function arena_bc:netherite_sword/soul_run/playerd/z_load
+function arena_bc:netherite_sword/surface_inner_sword/playerd/z_load

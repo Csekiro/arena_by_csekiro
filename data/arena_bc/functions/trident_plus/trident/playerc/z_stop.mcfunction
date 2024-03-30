@@ -1,0 +1,3 @@
+schedule clear arena_bc:trident_plus/trident/playerc/perform_t
+schedule clear arena_bc:trident_plus/trident/playerc/trident_rain/tr_cycle
+bossbar remove minecraft:sea_energy_playerc

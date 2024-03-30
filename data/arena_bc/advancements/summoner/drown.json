@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:channeled_lightning",
+        "conditions": {
+          "victims": [
+            {
+              "type": "minecraft:zombie",
+              "nbt": "{}"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "arena_bc:arena/advancements/summoner/drown"
+    }
+  }

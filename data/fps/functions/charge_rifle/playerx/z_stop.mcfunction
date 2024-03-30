@@ -1,0 +1,1 @@
+schedule clear fps:charge_rifle/playerx/perform_t

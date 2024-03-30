@@ -1,0 +1,23 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger":
+        "minecraft:",
+        "conditions": {
+          "item": {
+            "items": ["chorus_fruit"]
+          },
+          "player": {
+            "team": "red"
+          },
+          "nbt": "{Tags:[enderman]}"
+        }
+      }
+    },
+    "rewards": {
+      "function": ""
+    }
+  }
+  
+  
+  

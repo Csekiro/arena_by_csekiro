@@ -1,0 +1,2 @@
+function arena_bc:revolve_pickaxe/revolve_pickaxe_playerb/z_load
+function arena_bc:revolve_pickaxe/dripstone/playerb/z_load

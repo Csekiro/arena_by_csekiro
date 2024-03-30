@@ -1,0 +1,1 @@
+give @s ghast_tear{display:{Lore:['{"color":"gray","text":"时缓V","italic":false}','{"color":"gray","text":"饥饿","italic":false}','{"color":"dark_green","text":"手持使用","italic":false}'],Name:'{"color":"dark_aqua","text":"寂静泪滴","italic":false}'}}

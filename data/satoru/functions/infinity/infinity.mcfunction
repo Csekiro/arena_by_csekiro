@@ -1,0 +1,3 @@
+scoreboard objectives add infinity_distance_2 dummy
+scoreboard objectives add infinity_distance_3 dummy
+function satoru:infinity/infinity_t

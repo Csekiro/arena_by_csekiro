@@ -1,0 +1,7 @@
+schedule clear fps:charge_rifle/charge_rifle_playera/charge_rifle_t
+schedule clear fps:charge_rifle/charge_rifle_playerb/charge_rifle_t
+
+function fps:grenade_egg/grenade_egg_playera/grenade_egg_stop
+function fps:grenade_egg/grenade_egg_playerb/grenade_egg_stop
+
+schedule clear fps:crossbows/perform

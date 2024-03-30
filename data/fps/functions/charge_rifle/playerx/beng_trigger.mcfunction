@@ -1,0 +1,1 @@
+execute as @a[tag=playerx] at @s anchored eyes run function fps:charge_rifle/playerx/beng/laser

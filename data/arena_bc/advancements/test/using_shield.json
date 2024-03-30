@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger":
+        "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": ["shield"]
+          },
+          "player": {
+            "team": "red"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "arena_bc:arena/advancements/shield"
+    }
+  }
+  
+  
+  

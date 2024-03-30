@@ -1,0 +1,2 @@
+damage @e[distance=..2.6,type=!player,type=!arrow,type=!trident,type=!fireball,type=!armor_stand,type=!marker,type=!item,limit=1] 10
+damage @p[distance=..2.6,tag=!playerc,team=!red] 3.5 minecraft:player_explosion by @p[tag=playerc]

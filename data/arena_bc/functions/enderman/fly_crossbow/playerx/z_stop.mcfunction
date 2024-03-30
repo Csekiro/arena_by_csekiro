@@ -1,0 +1,1 @@
+schedule clear arena_bc:enderman/fly_crossbow/playerx/perform_t 

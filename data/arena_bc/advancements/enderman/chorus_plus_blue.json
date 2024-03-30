@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger":
+      "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["chorus_fruit"]
+        },
+        "player": {
+          "team": "blue"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "arena_bc:enderman/chorus/blue"
+  }
+}
+
+

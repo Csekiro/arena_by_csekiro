@@ -1,0 +1,2 @@
+clear @a[tag=playerd] glass_bottle
+give @a[tag=playerd] minecraft:experience_bottle{display:{Lore:['{"color":"gray","text":"回复1/2召唤能量","italic":false}','{"color":"gray","text":"消耗自身5点血量(2.5颗心)","italic":false}','{"color":"gray","text":"无限","italic":false}','{"color":"light_purple","text":"右键使用","italic":false}'],Name:'{"color":"blue","text":"能量瓶","italic":false}'},CustomModelData:1} 1

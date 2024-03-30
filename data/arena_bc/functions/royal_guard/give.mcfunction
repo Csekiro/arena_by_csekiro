@@ -1,0 +1,1 @@
+give @s ghast_tear{display:{Name:'{"color":"aqua","text":"静寂泪滴","italic":false}'},Enchantments:[{id:"minecraft:thorns",lvl:10}],silent_tear:1b}

@@ -1,0 +1,1 @@
+execute as @a[tag=playerb] at @s run function arena_bc:netherite_axe/wine/playerb/get_wine

@@ -1,0 +1,1 @@
+execute as @e[tag=exchange_pos_playerx,limit=1] at @s run tp @p[tag=!playerx,tag=ok,team=purple] ~ ~ ~ ~ ~

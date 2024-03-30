@@ -1,0 +1,7 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "killer_player",
+    "predicate": {
+        "team": "red"
+    }
+}

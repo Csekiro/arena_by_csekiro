@@ -1,0 +1,1 @@
+give @p crossbow{display:{Lore:['{"color":"gray","text":"防空","italic":false}'],Name:'{"text":"防空炮","italic":false}'},Enchantments:[{lvl:116,id:"minecraft:piercing"}],HideFlags:1,Unbreakable:1,air_defense_artillery:1b}

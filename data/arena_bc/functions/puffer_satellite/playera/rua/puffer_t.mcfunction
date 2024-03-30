@@ -1,0 +1,2 @@
+execute as @a[tag=playera,limit=1] at @s if entity @s[nbt={SelectedItem:{id:"minecraft:pufferfish"}}] run function arena_bc:puffer_satellite/playera/puffer_summon
+schedule function arena_bc:puffer_satellite/playera/puffer_t 1t append

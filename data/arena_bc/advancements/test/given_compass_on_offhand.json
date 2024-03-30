@@ -1,0 +1,18 @@
+{
+  "condition": "any_of","terms": [
+    {
+      "condition": "entity_properties",
+      "entity": "this",
+      "predicate": {"equipment": {"offhand": {
+        "items": ["compass"], "nbt": "{\"id\":\"servervanilla.survival_war:centering_compass\"}"
+      }}}
+    },
+    {
+      "condition": "entity_properties",
+      "entity": "this",
+      "predicate": {"equipment": {"offhand": {
+        "items": ["compass"], "nbt": "{\"id\":\"servervanilla.survival_war:mate_compass\"}"
+      }}}
+    }
+  ]
+}

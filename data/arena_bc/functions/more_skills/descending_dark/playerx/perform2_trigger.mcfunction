@@ -1,0 +1,1 @@
+execute as @a[tag=playerx] at @s run function arena_bc:more_skills/descending_dark/playerx/perform2

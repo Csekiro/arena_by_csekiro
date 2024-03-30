@@ -1,0 +1,1 @@
+execute as @e[tag=ver_circle,limit=1] at @s run function particles:vertical_circle/perform

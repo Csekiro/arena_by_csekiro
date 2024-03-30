@@ -1,0 +1,1 @@
+give @s heart_of_the_sea{sea_power:1b}

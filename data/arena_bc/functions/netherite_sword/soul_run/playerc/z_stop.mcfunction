@@ -1,0 +1,1 @@
+schedule clear arena_bc:netherite_sword/soul_run/playerc/soul_run_t

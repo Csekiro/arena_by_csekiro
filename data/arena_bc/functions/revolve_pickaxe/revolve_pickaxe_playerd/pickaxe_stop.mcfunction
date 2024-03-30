@@ -1,0 +1,10 @@
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/pickaxe_cycle
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/pickaxe_cyclet
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/pickaxe_perform
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/pickaxe_perform2t
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/pickaxe_backt
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/pickaxe_back
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/pickaxe_back2
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/pickaxe_cd
+schedule clear arena_bc:revolve_pickaxe/revolve_pickaxe_playerd/picakaxe_revolvet
+kill @e[tag=f_playerd]

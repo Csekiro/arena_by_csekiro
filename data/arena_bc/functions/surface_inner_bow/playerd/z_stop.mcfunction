@@ -1,0 +1,1 @@
+schedule clear arena_bc:surface_inner_bow/playerd/bows_t

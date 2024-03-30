@@ -1,0 +1,1 @@
+execute as @a[tag=playerx] at @s anchored eyes run function arena_bc:more_skills/abe_kiri/playerx/beng/laser

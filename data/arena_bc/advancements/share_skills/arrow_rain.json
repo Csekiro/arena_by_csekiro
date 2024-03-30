@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "arrow_rain": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "effects": {
+            "minecraft:unluck": {
+              "amplifier": 0,
+              "visible": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "arena_bc:arena/share_skills/arrow_rain/arrow_rain_t"
+  }
+}

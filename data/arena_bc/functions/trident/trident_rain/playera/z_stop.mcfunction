@@ -1,0 +1,1 @@
+schedule clear arena_bc:trident/trident_rain/playera/tr_cycle

@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "effect_luck": {
+        "trigger": "minecraft:tick",
+        "conditions": {
+          "player": {
+            "effects": {
+              "minecraft:luck": {
+                "amplifier": 0,
+                "visible": false
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "arena_bc:bat/vampire/effect_luck"
+    }
+  }

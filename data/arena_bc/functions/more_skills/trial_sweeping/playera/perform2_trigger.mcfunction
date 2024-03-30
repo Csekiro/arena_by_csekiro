@@ -1,0 +1,1 @@
+execute as @a[tag=playera] at @s run function arena_bc:more_skills/trial_sweeping/playera/perform2

@@ -1,0 +1,42 @@
+{
+  "display": {
+      "icon": {
+          "item": "minecraft:scute"
+      },
+      "title": "润",
+      "description": "疾跑",
+      "frame": "task",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+  },
+  "criteria": {
+    "sprinting":{
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player":{
+          "flags":{
+            "is_sprinting": true
+          },
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:feather"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sprinting"
+    ]
+  ],
+  "rewards": {
+    "function": "tools:sprinting",
+    "experience": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:effects_changed",
+        "conditions": {
+          "effects": {
+            "minecraft:luck": {
+              "amplifier": 0,
+              "visible": false
+              }
+            }
+          }
+        }
+      },
+      "rewards": {
+        "function": ""
+    }
+}

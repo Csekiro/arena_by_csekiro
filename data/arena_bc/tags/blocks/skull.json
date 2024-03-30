@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+	"minecraft:fire",
+	"minecraft:kelp_plant",
+	"minecraft:kelp",
+	"minecraft:bubble_column",
+    "minecraft:tube_coral_fan",
+    "minecraft:brain_coral_fan",
+    "minecraft:bubble_coral_fan",
+    "minecraft:fire_coral_fan",
+    "minecraft:horn_coral_fan",
+
+    
+    
+    "minecraft:redstone_wire",
+    "minecraft:moss_carpet"
+    ]
+}

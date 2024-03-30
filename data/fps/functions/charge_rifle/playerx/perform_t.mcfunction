@@ -1,0 +1,4 @@
+execute as @a[tag=playerx,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",tag:{charge_rifle:1b}}},nbt={Inventory:[{id:"minecraft:nether_star"}]}] at @s if score @s use_warped_fungus_stick matches 1 if score #charge_rifle_cd_playerx charge_rifle_cd_playerx matches 0 run function fps:charge_rifle/playerx/perform
+execute as @a[tag=playerx] at @s unless entity @s[nbt={Inventory:[{id:"minecraft:nether_star"}]}] if score @s use_warped_fungus_stick matches 1 run function fps:charge_rifle/playerx/no_bullet
+execute as @a[tag=playerx] at @s run scoreboard players reset @s use_warped_fungus_stick
+schedule function fps:charge_rifle/playerx/perform_t 1t append

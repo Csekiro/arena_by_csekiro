@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "arrow_rain": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "effects": {
+            "minecraft:unluck": {
+              "amplifier": 1
+            },
+            "minecraft:luck": {}
+          }
+        }
+      }
+    }
+  }
+},
+"rewards": {
+  "function": "arena_bc:enderman/sneak_slowfall/sneak"
+}
+}

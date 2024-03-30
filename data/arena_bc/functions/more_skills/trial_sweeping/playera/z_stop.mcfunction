@@ -1,0 +1,1 @@
+schedule clear arena_bc:more_skills/trial_sweeping/playera/perform_t

@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:effects_changed",
+        "conditions": {
+          "player": {"team": "purple"},
+          "effects": {
+            "minecraft:resistance": {
+              "amplifier": {"min": 1, "max": 255}
+              }
+            }
+          }
+        }
+      },
+      "rewards": {
+        "function": "arena_bc:arena/advancements/purple/resistance"
+    }
+}

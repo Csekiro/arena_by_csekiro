@@ -1,0 +1,1 @@
+effect give @a[tag=playerd] levitation 1 0 true

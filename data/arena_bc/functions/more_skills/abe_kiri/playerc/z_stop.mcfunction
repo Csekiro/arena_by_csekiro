@@ -1,0 +1,1 @@
+schedule clear arena_bc:more_skills/abe_kiri/playerc/perform_t
